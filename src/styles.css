@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  width: 200px;
+  padding: 12px;
+  font-size: 2rem;
+}
